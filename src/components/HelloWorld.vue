@@ -26,13 +26,13 @@ export default {
   },
   data () {
     return {
-      authEndpoint: "https://sample-zoom-auth-server.onrender.com",
-      sdkKey: "OpPS90eURI6DVdnM06rjmA",
-      meetingNumber: "3093723525",
+      authEndpoint: "",
+      sdkKey: "",
+      meetingNumber: "123456789",
       passWord: "",
       role: 0,
-      userName: "guest",
-      userEmail: "guest@guest.com",
+      userName: "Vue.js",
+      userEmail: "",
       registrantToken: '',
       zakToken: '',
       leaveUrl: ""
