@@ -31,7 +31,7 @@ export default {
       meetingNumber: "123456789",
       passWord: "test1234",
       role: 0,
-      userName: "guest,
+      userName: "guest",
       userEmail: "guest@guest.com",
       registrantToken: '',
       zakToken: '',
